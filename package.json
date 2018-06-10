@@ -1,0 +1,19 @@
+{
+  "name": "Videochat",
+  "version": "1.0.0",
+  "description": "VideoChat",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "Shobhit Sachan",
+  "dependencies": {
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "jquery": "^3.3.1",
+    "semantic-ui-css": "^2.3.1",
+    "simplewebrtc": "^3.0.1"
+  }
+}
