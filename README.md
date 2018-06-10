@@ -12,7 +12,8 @@ I had already included all this in the /public/scripts folder.
 
 
 ### Deployment of This App
-I Deployment it in [npm-now](https://zeit.co/docs/deployment-types/node).
+I Deployment it in [npm-now](https://zeit.co/docs/deployment-types/node)
+
 Current Website is https://videochat-ivszkgoftz.now.sh/
 
 
